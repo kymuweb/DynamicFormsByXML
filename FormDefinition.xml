@@ -1,0 +1,36 @@
+<Form Reference="Dynamic form">
+  <Form.Controls>
+    <Label Name="Label1" Text="Report Source">
+      <Size Width="76" Height="13" />
+      <Location x="12" y="9" />
+    </Label>
+    <TextBox Name="TextBox1" Content="TEST_1">
+      <Size Width="260" Height="20" />
+      <Location x="15" y="25" />
+    </TextBox>
+    <Label Name="Label2" Text="Source Reference">
+      <Size Width="76" Height="13" />
+      <Location x="12" y="63" />
+    </Label>
+    <TextBox Name="TextBox2" Content="TEST_2">
+      <Size Width="260" Height="20" />
+      <Location x="15" y="79" />
+    </TextBox>
+    <CheckBox Name="CheckBox1" Text="Lock Source Reference" Content="False" Locks="TextBox2">
+      <Size Width="140" Height="17" />
+      <Location x="15" y="118" />
+    </CheckBox>
+    <Button Name="Button1" Text="Save" OnClick="Save">
+      <Size Width="75" Height="23" />
+      <Location x="15" y="141" />
+    </Button>
+    <Button Name="Button2" Text="Print Screen" OnClick="PrintScreenShot">
+      <Size Width="75" Height="23" />
+      <Location x="96" y="141" />
+    </Button>
+    <Button Name="Button3" Text="Print" OnClick="Print">
+      <Size Width="75" Height="23" />
+      <Location x="177" y="141" />
+    </Button>
+  </Form.Controls>
+</Form>

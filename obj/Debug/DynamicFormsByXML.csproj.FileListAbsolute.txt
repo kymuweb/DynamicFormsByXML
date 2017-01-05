@@ -1,0 +1,8 @@
+C:\DynamicFormsByXML\DynamicFormsByXML\bin\Debug\DynamicFormsByXML.exe.config
+C:\DynamicFormsByXML\bin\Debug\DynamicFormsByXML.exe.config
+C:\DynamicFormsByXML\bin\Debug\DynamicFormsByXML.exe
+C:\DynamicFormsByXML\bin\Debug\DynamicFormsByXML.pdb
+C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.Properties.Resources.resources
+C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.csproj.GenerateResource.Cache
+C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.exe
+C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.pdb

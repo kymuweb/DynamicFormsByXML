@@ -6,3 +6,4 @@ C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.Properties.Resources.resources
 C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.csproj.GenerateResource.Cache
 C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.exe
 C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.pdb
+C:\DynamicFormsByXML\obj\Debug\DynamicFormsByXML.csprojResolveAssemblyReference.cache
